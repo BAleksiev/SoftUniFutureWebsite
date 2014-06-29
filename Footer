@@ -2,7 +2,7 @@
 
 <html><head>
     <meta charset="UTF-8">
-    <link rel="stylesheet" href="styles/02-WebsiteFooter.css">
+    <link rel="stylesheet" href="styles/WebsiteFooter.css">
     <title>Website Footer</title>
     <script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js#xfbml=1&amp;appId=135962133182763&amp;version=v2.0"></script><script src="scripts/facebook.js"></script>
 </head>
